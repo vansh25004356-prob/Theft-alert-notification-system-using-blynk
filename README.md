@@ -56,8 +56,12 @@ I contributed to **ESP8266 programming, sensor integration, Blynk configuration,
 ---
 
 ## ▶️ Circuit Diagram / Connections
-[Simulation.webp](https://github.com/vansh25004356-prob/Theft-alert-notification-system-using-blynk/blob/382a3cd5349f3ee0bcc18dffac6616b6de82e6b7/Simulation.webp)
-The blink of Led denotes the message sent to user.
+| IR Sensor | ESP8266 (NodeMCU) |
+| --------- | ----------------- |
+| VCC       | 3V3               |
+| GND       | GND               |
+| OUT       | D2 (GPIO4)        |
+
 
 ---
 
