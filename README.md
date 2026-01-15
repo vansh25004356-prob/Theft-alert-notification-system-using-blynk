@@ -56,7 +56,8 @@ I contributed to **ESP8266 programming, sensor integration, Blynk configuration,
 ---
 
 ## ▶️ Circuit Diagram / Connections
-
+Simulation.webp
+The blink of Led denotes the message sent to user.
 
 ---
 
